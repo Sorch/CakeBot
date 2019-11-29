@@ -1,0 +1,19 @@
+{
+	"name": "CakeBot",
+	"author": "Sorch <sorch@sorch.info>",
+	"version": "0.0.1a",
+	"description": "A stupid discord bot... designed to give cake ... ::",
+	"main": "./cakebot",
+	"engines": {
+		"node": ">=12.12.0"
+	},
+	"homepage": "http://sorch.dev/discl",
+	"license": "MIT",
+	"dependencies": {
+		"eris": "*",
+		"flat-file-db": "*"
+	},
+	"devDependencies": {
+		"eslint": "^6.5.1"
+	}
+}
