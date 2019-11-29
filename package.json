@@ -7,7 +7,7 @@
 	"engines": {
 		"node": ">=12.12.0"
 	},
-	"homepage": "http://sorch.dev/discl",
+	"homepage": "http://github.com/Sorch/CakeBot",
 	"license": "MIT",
 	"dependencies": {
 		"eris": "*",
